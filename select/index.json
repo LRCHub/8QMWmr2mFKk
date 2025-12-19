@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "【公式】悪食娘コンチータ / MEIKO【中世物語風オリジナル】（feat. MEIKO、鏡音レン）",
+  "base_artist": "mothy",
+  "createdAt": "2025-12-19T11:38:32.073991Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ",
+      "artist": "mothy",
+      "has_synced": true,
+      "path": "select/01_悪食娘コンチータ_mothy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ",
+      "artist": "mothy_悪ノP feat. MEIKO",
+      "has_synced": true,
+      "path": "select/02_悪食娘コンチータ_mothy_悪ノP_feat._MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ",
+      "artist": "mothy",
+      "has_synced": true,
+      "path": "select/03_悪食娘コンチータ_mothy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ",
+      "artist": "mothy_悪ノP feat. 神威がくぽ、MEIKO、鏡音リン、鏡音レン、初音ミク、巡音ルカ、KAITO、GUMI",
+      "has_synced": true,
+      "path": "select/04_悪食娘コンチータ_mothy_悪ノP_feat._神威がくぽ、MEIKO、鏡音リン、鏡音レン、初音ミク、巡音ルカ、KAITO、GUMI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ",
+      "artist": "EXIT TUNES",
+      "has_synced": true,
+      "path": "select/05_悪食娘コンチータ_EXIT_TUNES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ",
+      "artist": "EXIT TUNES",
+      "has_synced": true,
+      "path": "select/06_悪食娘コンチータ_EXIT_TUNES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ",
+      "artist": "mothy_悪ノP feat.MEIKO",
+      "has_synced": true,
+      "path": "select/07_悪食娘コンチータ_mothy_悪ノP_feat.MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ (feat. MEIKO)",
+      "artist": "mothy, MEIKO",
+      "has_synced": false,
+      "path": "select/08_悪食娘コンチータ_(feat._MEIKO)_mothy,_MEIKO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/09_悪食娘コンチータ_VA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ feat.MEIKO、鏡音リン、鏡音レン - Akujikimusume Conchita (feat. Len Kagamine, MEIKO & Rin Kagamine)",
+      "artist": "Mothy Akuno",
+      "has_synced": false,
+      "path": "select/10_悪食娘コンチータ_feat.MEIKO、鏡音リン、鏡音レン_-_Akujikimusume_Conchita_(feat._Len_Kagamine,_MEIK_Mothy_Akuno.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ - Akuzikimusume Conchita (feat. MEIKO)",
+      "artist": "mothy",
+      "has_synced": true,
+      "path": "select/11_悪食娘コンチータ_-_Akuzikimusume_Conchita_(feat._MEIKO)_mothy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ feat.MEIKO、鏡音リン、鏡音レン - Akujikimusume Conchita (feat. Len Kagamine",
+      "artist": "mothy_akunoP",
+      "has_synced": false,
+      "path": "select/12_悪食娘コンチータ_feat.MEIKO、鏡音リン、鏡音レン_-_Akujikimusume_Conchita_(feat._Len_Kagamine_mothy_akunoP.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "悪食娘コンチータ / mothy_悪ノP feat.MEIKO",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/13_悪食娘コンチータ___mothy_悪ノP_feat.MEIKO_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪食娘コンチータ",
+      "artist": "mothy_悪ノP",
+      "has_synced": false,
+      "path": "select/pl_01_悪食娘コンチータ_mothy_悪ノP.txt"
+    }
+  ]
+}
